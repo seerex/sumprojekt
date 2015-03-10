@@ -1,2 +1,2 @@
 # sumprojekt
-Lotto system til lions
+Beskriv systemet yderligere her.
